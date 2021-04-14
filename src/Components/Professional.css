@@ -1,0 +1,136 @@
+.doctor-container{
+    background-color:white;
+    display: flex;
+    border-radius: 20px;
+    margin: 10px;
+    -webkit-box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.2);
+    box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.2);
+}
+
+.image-box {
+    width: 120px;
+    height: 120px;
+    overflow: hidden;
+    margin: 10px;
+    border-radius: 20px;
+    -webkit-box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.2);
+    box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.2);
+}
+.text-container {
+    margin: 10px;
+    color: white;
+}
+
+.text-container h3, h4, label{
+    margin: 10px;
+    color: white;
+}
+
+.filterclass{
+    margin-top: 20px;
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.filter-doctors{
+    width: 60%;
+    padding: 20px;
+    background-color: white;
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: .75em;
+    letter-spacing: 1px;
+    overflow: hidden;
+    background: #dcfaff;
+    border-radius: 25px;
+    border: 0;
+    -webkit-box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.2);
+    box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.2);
+}
+
+a{
+    text-decoration: none;
+}
+
+.bookingform{
+    display:flex;
+    flex-direction: column;
+    width: 200px;
+    color: white;
+}
+.inputdescription{
+    height: 100px;
+}
+
+.doctor-container{
+    background-color: rgba(29, 203, 209, 0.568);
+    color: white;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    padding: 20px 10px 20px 10px;
+    -webkit-box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.2);
+    box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.2);
+}
+.doctor-container1{
+    background-color: rgba(29, 203, 209, 0.568);
+    color: white;
+    margin: 10px;
+    display: flex;
+    border-radius: 25px;
+    padding: 20px 10px 20px 10px;
+    -webkit-box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.2);
+    box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.2);
+}
+
+.doctor-image-container img{
+    border-radius: 20px;
+}
+
+.doctorbooking{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.bookingbtn {
+    width: 90%;
+    padding: 20px;
+    background-color: white;
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: .75em;
+    letter-spacing: 1px;
+    overflow: hidden;
+    background: #dcfaff;
+    border-radius: 25px;
+    border: 0;
+    -webkit-box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.2);
+    box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.2);
+}
+label {
+    color: white;
+}
+
+.doctor-details p, h1{
+margin-left: 10px;
+}
+
+.finalSubmit{
+    padding:10px;
+    border-radius: 25px;
+    background-color:#5EBD6D;
+    color: white;
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+    border: 0;
+    -webkit-box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.2);
+    box-shadow: 0px 5px 5px 0px rgba(0, 0, 0, 0.2);
+}
